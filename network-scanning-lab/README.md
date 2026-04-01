@@ -13,13 +13,13 @@ To perform network reconnaissance using Nmap and identify open ports and service
 ### 1. Identified Target IP
 Used ipconfig on Windows machine.
 
-![Target IP](screenshots/target-ip.png)
+![Target IP](screenshots/target-ip.PNG)
 
 ### 2. Performed Basic Scan
 Executed:
 nmap <TARGET-IP>
 
-![Nmap Scan](screenshots/nmap-scan.png)
+![Nmap Scan](screenshots/nmap-scan.PNG)
 
 ### 3. Service Enumeration
 Executed:
