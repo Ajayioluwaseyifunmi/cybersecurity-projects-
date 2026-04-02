@@ -10,15 +10,15 @@ To test password strength using brute-force techniques.
 ## Steps
 
 ### 1. Identified Login Page
-![Login](screenshots/login-page.png)
+![Login](screenshots/login-page.PNG)
 
 ### 2. Executed Hydra Attack
 Used rockyou wordlist.
 
-![Hydra Command](screenshots/hydra-command.png)
+![Hydra Command](screenshots/hydra-command.PNG)
 
 ### 3. Retrieved Credentials
-![Cracked Password](screenshots/cracked-password.png)
+![Cracked Password](screenshots/cracked-password.PNG)
 
 ## Findings
 - Weak password detected
