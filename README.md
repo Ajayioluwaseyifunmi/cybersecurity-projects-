@@ -50,8 +50,8 @@ Planned expansions to this repository include:
 
 For questions regarding these projects or professional opportunities:
 
-- **LinkedIn:** [https://www.linkedin.com/in/ajayioluwaseyifunmi/]
-- **Email:** [gracevine2008@gmail.com]
+- **LinkedIn:** https://www.linkedin.com/in/ajayioluwaseyifunmi/
+- **Email:** gracevine2008@gmail.com
 
 ---
 
