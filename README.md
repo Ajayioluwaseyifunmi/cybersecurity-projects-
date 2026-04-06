@@ -4,6 +4,14 @@
 
 This repository contains a collection of hands-on cybersecurity laboratory exercises and projects designed to develop practical skills in offensive and defensive security operations. Each lab environment is documented with key learnings to demonstrate competency across multiple domains of information security.
 
+### 🔍 Network Scanning Lab
+
+### 🔐 Password Cracking Lab
+
+### 🖥️ Virtual Lab Setup
+
+### 🛡️ Vulnerability Scanning Lab
+
 These projects were developed in isolated, authorized environments for educational purposes and professional skill development.
 
 ---
