@@ -17,7 +17,7 @@ To create an isolated lab environment for practicing penetration testing safely.
 VirtualBox was installed as the virtualization platform.
 
 ### 2. Created Kali Linux VM
-- Allocated 2GB RAM and 25GB disk
+- Allocated 2GB RAM and 50GB disk
 - Installed Kali Linux OS
 
 ### 3. Created Windows 10 VM
