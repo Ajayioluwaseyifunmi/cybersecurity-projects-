@@ -10,7 +10,6 @@ This repository contains a collection of hands-on cybersecurity laboratory exerc
 
 ### 🖥️ Virtual Lab Setup
 
-### 🛡️ Vulnerability Scanning Lab
 
 These projects were developed in isolated, authorized environments for educational purposes and professional skill development.
 
